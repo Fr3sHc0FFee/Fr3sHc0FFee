@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello! My name is Stephen (aka Fr3sHc0FFee) and I am a Security Analyst 👋
 
-<!--
-**Fr3sHc0FFee/Fr3sHc0FFee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+    - A one line python script for web recon
+    - BadUSB scripting through the Flipper Zero
+    - Formatting and using a recently purchased HiGole Pro
+- 🌱 I’m currently learning:
+    - Different research methods and triaging for Security events
+    - studying for the CEH certification
+- 💬 Ask me about:
+    - Anime (start Chainsaw Man opening theme)
+    - Reading Manga
+    - Playing/listening to 150bpm Techno
+    - Drinking way too much coffee ☕
+- 📖 Currently reading:
+    - Something is Killing the Children series (**[Amazon]**) 
 
-Here are some ideas to get you started:
+      
+- Follow me on **[TryHackMe]** 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[amazon]: https://www.amazon.com/dp/B087F7SRC5?binding=paperback&ref=dbs_dp_sirpi "Amazon"
+[tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
