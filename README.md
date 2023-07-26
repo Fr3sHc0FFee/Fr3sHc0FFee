@@ -17,6 +17,7 @@
 
       
 - Follow me on **[TryHackMe]** 🤖
+<script src="https://tryhackme.com/badge/700992"></script>
 
 [amazon]: https://www.amazon.com/dp/B087F7SRC5?binding=paperback&ref=dbs_dp_sirpi "Amazon"
 [tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
