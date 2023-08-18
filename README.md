@@ -14,7 +14,7 @@
     - Drinking way too much coffee ☕
 - 📖 Currently reading:
     - Something is Killing the Children series (**[Amazon]**)
-    - Cyberpunk 2077: No Coincidence (**[Amazon]**)
+    - Cyberpunk 2077: No Coincidence (**[Amazon_2]**)
 
       
 - Follow me on **[TryHackMe]** 🤖
