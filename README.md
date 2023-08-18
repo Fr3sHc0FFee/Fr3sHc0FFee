@@ -13,11 +13,13 @@
     - Playing/listening to 150bpm **[Techno]**.
     - Drinking way too much coffee ☕
 - 📖 Currently reading:
-    - Something is Killing the Children series (**[Amazon]**) 
+    - Something is Killing the Children series (**[Amazon]**)
+    - Cyberpunk 2077: No Coincidence (**[Amazon]**)
 
       
 - Follow me on **[TryHackMe]** 🤖
 
 [amazon]: https://www.amazon.com/dp/B087F7SRC5?binding=paperback&ref=dbs_dp_sirpi "Amazon"
+[amazon]: https://www.amazon.com/Cyberpunk-2077-Coincidence-Rafal-Kosik/dp/0759557179 "Amazon 2"
 [tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
 [techno]: https://open.spotify.com/playlist/37i9dQZF1E4nzt4cveHREl?si=d1530e7f6a5f4152
