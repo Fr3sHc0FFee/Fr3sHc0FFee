@@ -20,6 +20,6 @@
 - Follow me on **[TryHackMe]** 🤖
 
 [amazon]: https://www.amazon.com/dp/B087F7SRC5?binding=paperback&ref=dbs_dp_sirpi "Amazon"
-[NoCoincidence]: https://www.amazon.com/Cyberpunk-2077-Coincidence-Rafal-Kosik/dp/0759557179 "No Coincidence"
+[No Coincidence]: https://www.amazon.com/Cyberpunk-2077-Coincidence-Rafal-Kosik/dp/0759557179 "No Coincidence"
 [tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
 [techno]: https://open.spotify.com/playlist/37i9dQZF1E4nzt4cveHREl?si=d1530e7f6a5f4152
