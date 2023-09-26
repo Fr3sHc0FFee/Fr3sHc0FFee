@@ -6,7 +6,7 @@
     - Formatting and using a recently purchased HiGole Pro
 - 🌱 I’m currently learning:
     - Different research methods and triaging for Security events
-    - studying for the CEH certification
+    - studying for the SANS AUD507 certification
 - 💬 Ask me about:
     - Anime (start Chainsaw Man opening theme)
     - Reading Manga
