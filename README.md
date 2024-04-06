@@ -4,14 +4,18 @@
     - A one line python script for web recon
     - BadUSB scripting through the Flipper Zero
     - Formatting and using a recently purchased HiGole Pro
+
 - 🌱 I’m currently learning:
     - Different research methods and triaging for Security events
-    - studying for the SANS AUD507 certification
+    - recently completed and passed the SANS AUD507 certification
+    - currently studying for the SANS GCFE certification
+
 - 💬 Ask me about:
     - Anime (start Chainsaw Man opening theme)
     - Reading Manga
     - Playing/listening to 150bpm **[Techno]**.
     - Drinking way too much coffee ☕
+
 - 📖 Currently reading:
     - My Hero Acadamia v.37 (**[Amazon]**)
 
