@@ -17,11 +17,11 @@
     - Drinking way too much coffee ☕
 
 - 📖 Currently reading:
-    - My Hero Acadamia v.37 (**[Amazon]**)
+    - Chainsaw Man v.14 (**[Amazon]**)
 
       
 - Follow me on **[TryHackMe]** 🤖
 
-[amazon]: https://a.co/d/08fjhqR "Amazon"
+[amazon]: https://a.co/d/8n2LjS1 "Amazon"
 [tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
 [techno]: https://open.spotify.com/playlist/37i9dQZF1E4nzt4cveHREl?si=d1530e7f6a5f4152
