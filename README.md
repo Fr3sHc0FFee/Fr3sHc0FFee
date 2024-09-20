@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning:
     - Different research methods and triaging for Security events
     - recently completed and passed the SANS AUD507 certification
-    - currently studying for the SANS GCFE certification
+    - currently studying and working towards passing the AWS Cloud Practioner certification
 
 - 💬 Ask me about:
     - Anime (start Chainsaw Man opening theme)
