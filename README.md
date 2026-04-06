@@ -1,14 +1,11 @@
-### Hello! My name is Stephen (aka Fr3sHc0FFee) and I am a Security Analyst 👋
+### Hello! My name is Stephen (aka Fr3sHc0FFee) and I am a SecOps Engineer 👋
 
 - 🔭 I’m currently working on:
-    - A one line python script for web recon
-    - BadUSB scripting through the Flipper Zero
-    - Formatting and using a recently purchased HiGole Pro
+    - Autonomous Security Research Agent using Claude
 
 - 🌱 I’m currently learning:
     - Different research methods and triaging for Security events
-    - recently completed and passed the SANS AUD507 certification
-    - currently studying and working towards passing the AWS Cloud Practioner certification
+    - currently studying and working towards passing the CISSP certification
 
 - 💬 Ask me about:
     - Anime (start Chainsaw Man opening theme)
@@ -17,11 +14,11 @@
     - Drinking way too much coffee ☕
 
 - 📖 Currently reading:
-    - Neuromancer (**[Amazon]**)
+    - Jade War (**[Amazon]**)
 
       
 - Follow me on **[TryHackMe]** 🤖
 
-[amazon]: https://a.co/d/4yDCBge "Amazon"
+[amazon]: https://a.co/d/04y96mkC "Amazon"
 [tryhackme]: https://tryhackme.com/p/Fr3sHc0FFee "TryHackMe"
 [techno]: https://open.spotify.com/playlist/37i9dQZF1E4nzt4cveHREl?si=d1530e7f6a5f4152
